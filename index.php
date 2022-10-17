@@ -1,1 +1,3 @@
-hello develop
+<?php
+echo "Tin hoc";
+?>
